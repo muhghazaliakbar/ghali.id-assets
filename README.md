@@ -1,2 +1,2 @@
 # ghali.id-assets
-Assets for ghali.id
+Assets for https://ghali.id
